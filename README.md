@@ -8,7 +8,8 @@ source .venv/bin/activate
 source setup.sh
 ```
 
-# Configuración en Windows
+# Configuración en Windowsdecm@fedora:~/Music$ cat > prueba.txt
+
 
 Ejecute los siguientes comandos en el terminal:
 
